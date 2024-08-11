@@ -1,0 +1,1 @@
+Este é um bot de música para Discord, desenvolvido em Node.js, utilizando a biblioteca discord.js e a API do YouTube. O bot permite que os utilizadores toquem músicas do YouTube diretamente nos canais de voz do Discord.
