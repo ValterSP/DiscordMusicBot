@@ -1,6 +1,6 @@
 {
-    "youtubeAPIKey": "AIzaSyB70-LdaZbmcqWX_GlknBloDhfweO4xJRc",
+    "youtubeAPIKey": "API_KEY",
     "token": "MY_TOKEN",
-    "clientId" : "1186746714531569745",
+    "clientId" : "CLIENT_ID",
     "prefix" : "!"
 }
